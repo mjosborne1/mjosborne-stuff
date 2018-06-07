@@ -1,13 +1,14 @@
 ---
 templateKey: 'blog-post'
-title: 'Recipes'
+title: 'Recipes: Main Meals'
 date: 2018-06-07T20:40:10.000Z
 description: >-
   Family favourites, quick and simple. :)
 tags:
+  - recipe
   - pasta
-  - bacon
   - flavor
+  - dishes
 ---
 
 ---
