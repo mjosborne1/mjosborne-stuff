@@ -1,33 +1,65 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'Recipes'
+date: 2018-06-07T20:40:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  The classic Fettucine Carbonara
 tags:
-  - jamaica
-  - green beans
+  - pasta
+  - bacon
   - flavor
-  - tasting
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+## Fettuccini Carbonara
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+This is a classic italian dish that takes very little time to prepare and feeds about 4 people.
 
-## A little history
+### Ingrediants
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+* 375 grams fettuccini
+* 3 eggs
+* 250 mL pouring cream
+* 125 grams parmesan cheese, grated 
+* 175 grams bacon, chopped
+* 1 tablespoon butter
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+### Instructions
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+1. Melt butter over medium heat.
+1. Fry bacon for 10 minutes or until golden brown.
+1. Boil water in a large pot and cook fettuccine pasta for 10 minutes or so.
+1. Add eggs, cream, parmesan cheese to a bowl.
+1. Whisk ingrediants together.
+1. Drain pasta, rinse and return to pot.
+1. Heat on low.
+1. Add mixture to pasta and cook, stirring the sauce and pasta together with a fork.  
+1. When sauce thickens, pasta is ready to serve.
 
-## What you need to know before trying
+---
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+## Easy Quiche
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+This dish is shake and bake, no fancy pastry skills are required. 
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Preparation: 30 minutes
+Cooking time 40-45 minutes 180c
+
+### Ingrediants
+
+* 3 eggs
+* 1 1/2 cups of milk
+* 1/3 cup melted butter
+* 1/2 cup self-raising flour
+* 1 onion, grated (or shallots)
+* 3 chopped bacon rashes
+* 1 cup grated tasty cheese
+
+# Instructions
+
+1. Pre-heat oven to 180C
+1. Chop up ingrediants and throw into a large bowl
+1. Whisk ingrediants together
+1. Pour into a quiche tray 
+1. Bake for 40-45 minutes or until brown on top.
+
+---
