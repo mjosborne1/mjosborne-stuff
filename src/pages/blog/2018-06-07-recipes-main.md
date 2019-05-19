@@ -2,7 +2,7 @@
 templateKey: 'blog-post'
 title: 'Recipes: Main Meals'
 date: 2018-06-07T20:40:10.000Z
-description: >-
+description: 
   Family favourites, quick and simple. :)
 tags:
   - recipe
@@ -93,9 +93,9 @@ Cooking time 40-45 minutes 180c
 ##Nan's spaghetti bolognese
 
 ### Equipment
-1 Microwave oven
-1 Crockpot
-1 Spaghetti cooker
+1. Microwave oven
+1. Crockpot
+1. Spaghetti cooker
 
 ### Ingrediants
 1 Kg Mince
