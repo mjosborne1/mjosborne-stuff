@@ -73,17 +73,17 @@ Cooking time 40-45 minutes 180c
 ## Grilled Lemon Pepper Chicken
 
 ### Ingrediants
-1 cup olive oil
-2/3 cup lemon juice
-2 tsp minced garlic
-1/2 tsp pepper
-1/2 tsp salt
+* 1 cup olive oil
+* 2/3 cup lemon juice
+* 2 tsp minced garlic
+* 1/2 tsp pepper
+* 1/2 tsp salt
 
 ### Instructions
-* Whisk ingrediants together
-* Add chicken to marinade
-* Allow to marinate for 8 hours
-* Grill chicken on a hot pan and add additional pepper as required.
+1. Whisk ingrediants together
+1. Add chicken to marinade
+1. Allow to marinate for 8 hours
+1. Grill chicken on a hot pan and add additional pepper as required.
 
 
 ---
@@ -98,23 +98,23 @@ Cooking time 40-45 minutes 180c
 1 Spaghetti cooker
 
 ### Ingrediants
-1 Kg Mince
-1 onion 
-Chilli flakes
-Chives
-Oregano
-parsley
-ground cumin
-2 cans Condensed Tomato Soup
+* 1 Kg Mince
+* 1 onion 
+* Chilli flakes
+* Chives
+* Oregano
+* parsley
+* ground cumin
+* 2 cans Condensed Tomato Soup
 
 ### Instructions
-* Dice onion and place in crockpot.
-* Add 2 cans of condensed tomato soup to crockpot.
-* Add 1.5 cans of water to crockpot.
-* Stir and place crockpot in microwave, heat for 10 minutes on high.
-* Add 1 kg of mince to crockpot.
-* Add herbs (chilli, chives, oregano, parsley, cumin) to crockpot.
-* Cook in micrwave for 20 minutes, stiring occasionally.
-* Cook spaghetti.
-* Add spaghetti to crockpot. Serve.
+1. Dice onion and place in crockpot.
+1. Add 2 cans of condensed tomato soup to crockpot.
+1. Add 1.5 cans of water to crockpot.
+1. Stir and place crockpot in microwave, heat for 10 minutes on high.
+1. Add 1 kg of mince to crockpot.
+1. Add herbs (chilli, chives, oregano, parsley, cumin) to crockpot.
+1. Cook in micrwave for 20 minutes, stiring occasionally.
+1. Cook spaghetti.
+1. Add spaghetti to crockpot. Serve.
 
