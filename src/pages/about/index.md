@@ -12,8 +12,8 @@ In 1999, a developer position became available at QML West End. I learnt off the
 ### Pathology Technical Lead at Mater Health Services
 I began as a computer scientist learning the Kestral Pathology LIS (PLS) in February 2009. I was on a temporary 12 month contract as the Manager had gone on long service leave and didn't look to be coming back. At Mater I was involved less with the programming (although there are elements to it in PLS and HL7Connect) and more with system configuration. There was still a lot of HL7 integration work to do. I was made permanent full-time in 2010. We went through quite a few managers. I even spent about 12 months as manager of Pathology Information Systems although this was in addition to my team leader / technical role, which was unsustainable. In about 2014 the DIST (Digital Imaging Support Team) and Pathology Information systems team merged to become Diagnostic Solutions, which fit into the Health Solutions team. I basically lead the Pathology Support team from the technical aspect, looking after server support of PLS, HL7Connect, the pathology Intersystems Ensemble production, PKS Rippledown and a few other systems. This is keeping me very busy and one day is never the same as another. 
 
-### Senior System Support Officer
-Under new leadership, I have moved into an agile "scrum", responsibilities to be similar but the systems now being looked after include CHARM - Cancer Care and Matrix - Maternity care solution.
+### Senior Application Specialist
+Under new leadership, I have moved into a new team, responsible for Pathology Informations Systems, Mater Clinical Portals and Onbase.
 
 ### Other Digital Health Experience
 * Australian Passive Antimicrobial Awareness system working group AURA/OrgTrx (2015-present)
