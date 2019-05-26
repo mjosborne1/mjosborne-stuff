@@ -2,6 +2,9 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 import github from '../img/github-icon.svg'
+import fb from '../img/fb-icon.png'
+import ig from '../img/Instagram_icon.png'
+import tw from '../img/Twitter-Logo.svg'
 import logo from '../img/logo.svg'
 
 const Navbar = () => (
@@ -30,6 +33,38 @@ const Navbar = () => (
             <img src={github} alt="Github" />
           </span>
         </a>
+        <a
+          className="navbar-item"
+          href="https://www.facebook.com/mike.osborne.568"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span className="icon">
+            <img src={fb} alt="facebook" />
+          </span>
+        </a>
+
+        <a
+          className="navbar-item"
+          href="https://www.instagram.com/mjosborne1"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span className="icon">
+            <img src={ig} alt="instagram" />
+          </span>
+        </a>
+        <a
+          className="navbar-item"
+          href="https://twitter.com/osbornemj"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span className="icon">
+            <img src={tw} alt="twitter" />
+          </span>
+        </a>
+       
       </div>
     </div>
   </nav>

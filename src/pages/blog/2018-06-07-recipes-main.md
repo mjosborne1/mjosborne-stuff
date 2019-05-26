@@ -17,7 +17,7 @@ tags:
 
 This is a classic italian dish that takes very little time to prepare and feeds about 4 people.
 
-### Ingrediants
+### Ingredients
 
 * 375 grams fettuccini
 * 3 eggs
@@ -32,7 +32,7 @@ This is a classic italian dish that takes very little time to prepare and feeds 
 1. Fry bacon for 10 minutes or until golden brown.
 1. Boil water in a large pot and cook fettuccine pasta for 10 minutes or so.
 1. Add eggs, cream, parmesan cheese to a bowl.
-1. Whisk ingrediants together.
+1. Whisk Ingredients together.
 1. Drain pasta, rinse and return to pot.
 1. Heat on low.
 1. Add mixture to pasta and cook, stirring the sauce and pasta together with a fork.  
@@ -49,7 +49,7 @@ This dish is shake and bake, no fancy pastry skills are required.
 Preparation: 30 minutes
 Cooking time 40-45 minutes 180c
 
-### Ingrediants
+### Ingredients
 
 * 3 eggs
 * 1 1/2 cups of milk
@@ -62,8 +62,8 @@ Cooking time 40-45 minutes 180c
 # Instructions
 
 1. Pre-heat oven to 180C
-1. Chop up ingrediants and throw into a large bowl
-1. Whisk ingrediants together
+1. Chop up Ingredients and throw into a large bowl
+1. Whisk Ingredients together
 1. Pour into a quiche tray 
 1. Bake for 40-45 minutes or until brown on top.
 
@@ -72,7 +72,7 @@ Cooking time 40-45 minutes 180c
 
 ## Grilled Lemon Pepper Chicken
 
-### Ingrediants
+### Ingredients
 * 1 cup olive oil
 * 2/3 cup lemon juice
 * 2 tsp minced garlic
@@ -80,7 +80,7 @@ Cooking time 40-45 minutes 180c
 * 1/2 tsp salt
 
 ### Instructions
-1. Whisk ingrediants together
+1. Whisk Ingredients together
 1. Add chicken to marinade
 1. Allow to marinate for 8 hours
 1. Grill chicken on a hot pan and add additional pepper as required.
@@ -88,7 +88,38 @@ Cooking time 40-45 minutes 180c
 
 ---
 
+## Slow Cooked Chicken Tacos
 
+### Preparation Time
+10 minutes
+
+### Coooking Time
+8 hours
+
+### Ingredients
+* 1 Kg Chicken thighs, skin off
+* 2 satchets Old El Paso Taco power
+* 1 bottle mild or medium salsa
+* Tortillas - (10 pack) 
+* Toppings for the tacos
+  * Cheese
+  * Corn kernels
+  * lettuce or baby spinach
+
+### Instructions
+1. Plug in crockpot and turn on high to warm up.
+1. Trip extra fat from chicken thighs
+1. Place about half the thighs in crockpot.
+1. Sprinkle the taco powder over the thighs until evenly covered
+1. Add a second layer of chicken thighs to the crockpot
+1. Sprinkle another packet of taco powder over the second layer.
+1. Empty a bottle of salsa evenly over the thighs.
+1. Add about 100 mL water
+1. Cover and cook for about 8 hours stirring occasionally.
+1. Turn down the crockpot heat to low once cooked.
+1. For the Tacos, add chicken, corn, lettuce, cheese to enchiladas and serve.
+
+---
 
 ##Nan's spaghetti bolognese
 
@@ -97,7 +128,7 @@ Cooking time 40-45 minutes 180c
 1. Crockpot
 1. Spaghetti cooker
 
-### Ingrediants
+### Ingredients
 * 1 Kg Mince
 * 1 onion 
 * Chilli flakes
