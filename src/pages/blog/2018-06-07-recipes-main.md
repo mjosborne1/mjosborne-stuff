@@ -73,6 +73,7 @@ Cooking time 40-45 minutes 180c
 ## Grilled Lemon Pepper Chicken
 
 ### Ingredients
+* 1 Kg Chicken Tenders
 * 1 cup olive oil
 * 2/3 cup lemon juice
 * 2 tsp minced garlic
