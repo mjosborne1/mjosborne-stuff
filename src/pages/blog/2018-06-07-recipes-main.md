@@ -142,11 +142,13 @@ Cooking time 40-45 minutes 180c
 ### Instructions
 1. Dice onion and place in crockpot.
 1. Add 2 cans of condensed tomato soup to crockpot.
-1. Add 1.5 cans of water to crockpot.
+1. Add 1/2 can of water to crockpot.
 1. Stir and place crockpot in microwave, heat for 10 minutes on high.
 1. Add 1 kg of mince to crockpot.
 1. Add herbs (chilli, chives, oregano, parsley, cumin) to crockpot.
-1. Cook in micrwave for 20 minutes, stiring occasionally.
-1. Cook spaghetti.
+1. Cook in microwave for 10 minutes, stiring occasionally.
+1. Taste and add more spices.
+1. Cook for another 10 minutes, stiring occasionally.
+1. Cook spaghetti. Drain and rinse once cooked.
 1. Add spaghetti to crockpot. Serve.
 
