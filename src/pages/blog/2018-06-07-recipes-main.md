@@ -147,7 +147,7 @@ Cooking time 40-45 minutes 180c
 1. Add 1 kg of mince to crockpot.
 1. Add herbs (chilli, chives, oregano, parsley, cumin) to crockpot.
 1. Cook in microwave for 10 minutes, stiring occasionally.
-1. Taste and add more spices.
+1. Taste and add more spices - garlic salt, italian herbs.
 1. Cook for another 10 minutes, stiring occasionally.
 1. Cook spaghetti. Drain and rinse once cooked.
 1. Add spaghetti to crockpot. Serve.
