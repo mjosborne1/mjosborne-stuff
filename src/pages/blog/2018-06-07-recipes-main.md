@@ -122,7 +122,7 @@ Cooking time 40-45 minutes 180c
 
 ---
 
-##Nan's spaghetti bolognese
+## Nan's spaghetti bolognese
 
 ### Equipment
 1. Microwave oven
