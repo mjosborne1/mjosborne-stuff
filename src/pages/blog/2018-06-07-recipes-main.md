@@ -89,6 +89,31 @@ Cooking time 40-45 minutes 180c
 
 ---
 
+## Slow Cooked Lemon Pepper Chicken 
+
+### Preparation Time
+15 minutes
+
+### Coooking Time
+8 hours
+
+### Ingrediants
+* 2 teaspoons dried oregano
+* 1 teaspoon sea salt
+* 1/2 teaspoon pepper
+* 1 kg chicken thighs
+* 4 garlic cloves, minced (or equivalent paste)
+* 1/2 cup chicken stock
+* 1/2 cup lemon juice
+
+### Instructions
+* Mix the dried oregano, salt and pepper in a small bowl. Rub the chicken breast with the mixture.
+* Add chicken to slow cooker with garlic , chicken stock and lemon juice
+* Slow cook until chicken falls apart
+* Serve with vegetables - Broccoli , Carrots , beans, zucchini 
+
+---
+
 ## Slow Cooked Chicken Tacos
 
 ### Preparation Time
